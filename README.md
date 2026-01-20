@@ -2,9 +2,6 @@
   <a href="https://github.com/leastofthelords/misc-powershell/stargazers">
     <img src="https://img.shields.io/github/stars/leastofthelords/misc-powershell?style=social">
   </a>
-  <a href="https://github.com/leastofthelords/misc-powershell/releases">
-    <img src="https://img.shields.io/github/downloads/leastofthelords/misc-powershell/total.svg">
-  </a>
   <a href="https://github.com/leastofthelords/misc-powershell/issues?q=is%3Aissue+is%3Aclosed">
     <img src="https://img.shields.io/github/issues-closed/leastofthelords/misc-powershell">
   </a>
